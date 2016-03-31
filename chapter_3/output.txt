@@ -1,0 +1,25 @@
+localhost c:Projects/java/chapter_3> Â  java guesSecrets 
+The following must be entered as whole numbers or letters.
+Please enter you age: 
+1
+Please enter weight: 
+2
+Please enter your birth month (can be in format ex. Nov, Novermber, or 11): 
+3
+Congratulations, the age is 25 or less
+localhost c:Projects/java/chapter_3> Â  java guesSecrets
+The following must be entered as whole numbers or letters.
+Please enter you age: 
+w
+Please enter you age: 
+25
+Please enter weight: 
+l
+Please enter weight: 
+128
+Please enter your birth month (can be in format ex. Nov, Novermber, or 11): 
+APRIL
+Congratulations, the age is 25 or less
+Congratulations, the weight is 128 or more
+Congratulations, the birth month is April
+

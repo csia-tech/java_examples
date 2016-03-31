@@ -1,0 +1,32 @@
+localhost c:Projects/java/chapter_5> javac Program.java 
+localhost c:Projects/java/chapter_5> java orderFood     
+Yum Yum Burger Joint Lunch / Dinner menu:
+[A] Yum Yum Burger: $0.99 dollars
+[B] Grease Yum Fries: $0.79 dollars
+[C] Soda Yum: $1.09 dollars
+[X] Press x when done.
+Enter in one of the following: [a,b,c,x]:
+a
+How many would you like to order?
+2
+You added an item to your bill.
+Yum Yum Burger Joint Lunch / Dinner menu:
+[A] Yum Yum Burger: $0.99 dollars
+[B] Grease Yum Fries: $0.79 dollars
+[C] Soda Yum: $1.09 dollars
+[X] Press x when done.
+Enter in one of the following: [a,b,c,x]:
+b
+How many would you like to order?
+3
+You added an item to your bill.
+Yum Yum Burger Joint Lunch / Dinner menu:
+[A] Yum Yum Burger: $0.99 dollars
+[B] Grease Yum Fries: $0.79 dollars
+[C] Soda Yum: $1.09 dollars
+[X] Press x when done.
+Enter in one of the following: [a,b,c,x]:
+x
+You where taxed!
+Your total bill, including 6% sales tax, is: $4.61
+

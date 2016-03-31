@@ -1,0 +1,39 @@
+localhost c:Projects/java/chapter_7> Â  java oMathQuiz 
+Please enter your name: 
+13242354
+Please only enter letters. Enter your name:
+John
+Question 1. 
+307 + 225 = 
+532
+Question 2. 
+53 + 190 = 
+12432356
+Question 3. 
+350 + 411 = 
+34234
+Question 4. 
+226 + 452 = 
+235235
+Question 5. 
+309 + 31 = 
+235324
+Question 6. 
+120 + 105 = 
+fff
+You can only enter a number. Your guess is: 
+325235
+Question 7. 
+411 + 379 = 
+235236
+Question 8. 
+450 + 20 = 
+235235
+Question 9. 
+148 + 367 = 
+235235
+Question 10. 
+335 + 469 = 
+235235
+John guess 2 out of 10 right. You scored a 20.0%.
+

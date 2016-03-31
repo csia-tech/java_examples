@@ -1,0 +1,20 @@
+localhost c:Projects/java/chapter_6> Â  java HelloWorld                                                                                                                                           We will now computer the average for a test.
+How many students?
+2
+Enter student grade.
+20
+Enter student grade.
+30
+The average is 25.0
+Compute average of another test?
+yes
+How many students?
+2
+Enter student grade.
+50
+Enter student grade.
+60
+The average is 67.5
+Compute average of another test?
+no
+

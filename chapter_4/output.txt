@@ -1,0 +1,7 @@
+localhost c:Projects/java/chapter_4> javac ordercost.java && java ordercost
+Please enter the amount of your meal [must enter a number].
+sfafwaf
+Please enter the amount of your meal [must enter a number].
+13.67
+Total cost of meal was $ 16.81. You paid this tip 16.0%. 6% sales tax was charged.
+

@@ -1,0 +1,22 @@
+localhost c:Projects/java/chapter_8> Â  java MobileMin 
+Please enter the amount of minutes on your cell phone plan:
+asfsfd
+You must enter a number, not letters.
+Please enter the amount of minutes you used:
+
+You must enter something.
+Please ensure values are within range.
+Please enter the amount of minutes on your cell phone plan:
+250
+Please enter the amount of minutes you used:
+300
+You are 50.0 minutes over your alotted usage.
+Your bill is $84.99
+localhost c:Projects/java/chapter_8> Â  java MobileMin
+Please enter the amount of minutes on your cell phone plan:
+300
+Please enter the amount of minutes you used:
+250
+You did not go over your alotted minutes.
+Your bill is $74.99
+

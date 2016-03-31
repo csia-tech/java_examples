@@ -1,0 +1,16 @@
+localhost c:Projects/java/chapter_2> Â  java salestax 
+The following must be entered as numbers.
+Please enter the total amount of sales for the month: 
+@#%$^#%&$&
+Please enter the total amount of sales for the month: 
+1
+Enter the amount of state tax: 
+2
+Enter the amount of county tax: 
+3
+*****************
+*Tax information*
+*****************
+The state sales tax you paid for the amount entered is: 1.0
+The county sales tax you paid for the amount entered us: 0.03
+Your total tax paid it: 2.03

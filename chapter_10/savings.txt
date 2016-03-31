@@ -1,0 +1,13 @@
+
+This is month 1. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 2. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 3. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 4. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 5. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 6. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 7. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 8. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 9. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 10. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 11. Before going green you spent $35.0. After going green you spent $30.0. This resulted in $5.0.
+This is month 12. Before going green you spent $25.0. After going green you spent $15.0. This resulted in $10.0.

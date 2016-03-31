@@ -1,0 +1,69 @@
+localhost c:Projects/java/chapter_9> Â  java MonthSavings
+The monthly savings calculator.
+Please enter in your data.
+Enter in the amount paid for month 12 prior to going green:
+25
+Enter in the amount paid for month 12 after going green:
+15
+Enter in the amount paid for month 11 prior to going green:
+asdf
+You must entere a number.
+Enter in the amount paid for month 11 after going green:
+45.5
+Enter in the amount paid for month 11 prior to going green:
+35.5
+Enter in the amount paid for month 11 after going green:
+1
+Enter in the amount paid for month 10 prior to going green:
+1
+Enter in the amount paid for month 10 after going green:
+1
+Enter in the amount paid for month 9 prior to going green:
+1
+Enter in the amount paid for month 9 after going green:
+1
+Enter in the amount paid for month 8 prior to going green:
+1
+Enter in the amount paid for month 8 after going green:
+1
+Enter in the amount paid for month 7 prior to going green:
+1
+Enter in the amount paid for month 7 after going green:
+1
+Enter in the amount paid for month 6 prior to going green:
+1
+Enter in the amount paid for month 6 after going green:
+1
+Enter in the amount paid for month 5 prior to going green:
+1
+Enter in the amount paid for month 5 after going green:
+1
+Enter in the amount paid for month 4 prior to going green:
+1
+Enter in the amount paid for month 4 after going green:
+1
+Enter in the amount paid for month 3 prior to going green:
+1
+Enter in the amount paid for month 3 after going green:
+1
+Enter in the amount paid for month 2 prior to going green:
+1
+Enter in the amount paid for month 2 after going green:
+1
+Enter in the amount paid for month 1 prior to going green:
+1
+Enter in the amount paid for month 1 after going green:
+1
+This is month 1. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 2. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 3. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 4. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 5. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 6. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 7. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 8. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 9. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 10. Before going green you spent $1.0. After going green you spent $1.0. This resulted in $0.0.
+This is month 11. Before going green you spent $45.5. After going green you spent $35.5.0. This resulted in $10.0.
+This is month 12. Before going green you spent $25.0. After going green you spent $15.0. This resulted in $10.0.
+
